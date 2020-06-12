@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactApp_VideoSearch/static/css/main.51df330a.chunk.css",
+    "main.js": "/ReactApp_VideoSearch/static/js/main.6eeda958.chunk.js",
+    "main.js.map": "/ReactApp_VideoSearch/static/js/main.6eeda958.chunk.js.map",
+    "runtime-main.js": "/ReactApp_VideoSearch/static/js/runtime-main.1707388d.js",
+    "runtime-main.js.map": "/ReactApp_VideoSearch/static/js/runtime-main.1707388d.js.map",
+    "static/js/2.b3e1cf71.chunk.js": "/ReactApp_VideoSearch/static/js/2.b3e1cf71.chunk.js",
+    "static/js/2.b3e1cf71.chunk.js.map": "/ReactApp_VideoSearch/static/js/2.b3e1cf71.chunk.js.map",
+    "index.html": "/ReactApp_VideoSearch/index.html",
+    "precache-manifest.73fa03743f14df7fb6c7a587404eabb7.js": "/ReactApp_VideoSearch/precache-manifest.73fa03743f14df7fb6c7a587404eabb7.js",
+    "service-worker.js": "/ReactApp_VideoSearch/service-worker.js",
+    "static/css/main.51df330a.chunk.css.map": "/ReactApp_VideoSearch/static/css/main.51df330a.chunk.css.map",
+    "static/js/2.b3e1cf71.chunk.js.LICENSE.txt": "/ReactApp_VideoSearch/static/js/2.b3e1cf71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1707388d.js",
+    "static/js/2.b3e1cf71.chunk.js",
+    "static/css/main.51df330a.chunk.css",
+    "static/js/main.6eeda958.chunk.js"
+  ]
+}
